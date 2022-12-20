@@ -1,0 +1,2 @@
+# samjson
+get fake data
